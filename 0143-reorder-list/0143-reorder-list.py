@@ -34,5 +34,5 @@ class Solution:
             
             last = arr[left]
         
-        if last:
-            last.next = None
+        
+        last.next = None
